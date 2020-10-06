@@ -4,18 +4,18 @@ exports[`mathjax-chtml block.md 1`] = `
 <p>
   <p>
     <mjx-container class="MathJax" jax="CHTML" display="true">
-      <mjx-math display="true" class=" MJX-TEX">
+      <mjx-math display="true" style="margin-left: 0; margin-right: 0" class=" MJX-TEX">
         <mjx-mfrac>
           <mjx-frac type="d">
             <mjx-num>
               <mjx-nstrut type="d"></mjx-nstrut>
               <mjx-msup>
-                <mjx-mi class="mjx-n">
-                  <mjx-c c="2202"></mjx-c>
+                <mjx-mi class="mjx-i">
+                  <mjx-c class="mjx-c1D715"></mjx-c>
                 </mjx-mi>
-                <mjx-script style="vertical-align: 0.363em">
+                <mjx-script style="vertical-align: 0.363em; margin-left: 0.052em">
                   <mjx-mi class="mjx-i" size="s">
-                    <mjx-c c="r"></mjx-c>
+                    <mjx-c class="mjx-c1D45F TEX-I"></mjx-c>
                   </mjx-mi>
                 </mjx-script>
               </mjx-msup>
@@ -27,16 +27,16 @@ exports[`mathjax-chtml block.md 1`] = `
                   <mjx-den>
                     <mjx-dstrut type="d"></mjx-dstrut>
                     <mjx-mrow>
-                      <mjx-mi class="mjx-n">
-                        <mjx-c c="2202"></mjx-c>
+                      <mjx-mi class="mjx-i">
+                        <mjx-c class="mjx-c1D715"></mjx-c>
                       </mjx-mi>
                       <mjx-msup>
                         <mjx-mi class="mjx-i">
-                          <mjx-c c="3C9"></mjx-c>
+                          <mjx-c class="mjx-c1D714 TEX-I"></mjx-c>
                         </mjx-mi>
-                        <mjx-script style="vertical-align: 0.363em">
+                        <mjx-script style="vertical-align: 0.289em">
                           <mjx-mi class="mjx-i" size="s">
-                            <mjx-c c="r"></mjx-c>
+                            <mjx-c class="mjx-c1D45F TEX-I"></mjx-c>
                           </mjx-mi>
                         </mjx-script>
                       </mjx-msup>
@@ -49,7 +49,7 @@ exports[`mathjax-chtml block.md 1`] = `
         </mjx-mfrac>
         <mjx-mrow>
           <mjx-mo class="mjx-s3">
-            <mjx-c c="("></mjx-c>
+            <mjx-c class="mjx-c28 TEX-S3"></mjx-c>
           </mjx-mo>
           <mjx-mfrac>
             <mjx-frac type="d">
@@ -57,12 +57,12 @@ exports[`mathjax-chtml block.md 1`] = `
                 <mjx-nstrut type="d"></mjx-nstrut>
                 <mjx-msup>
                   <mjx-mi class="mjx-i">
-                    <mjx-c c="y"></mjx-c>
+                    <mjx-c class="mjx-c1D466 TEX-I"></mjx-c>
                   </mjx-mi>
                   <mjx-script style="vertical-align: 0.363em">
-                    <mjx-TeXAtom size="s">
+                    <mjx-TeXAtom size="s" texclass="ORD">
                       <mjx-mi class="mjx-i">
-                        <mjx-c c="3C9"></mjx-c>
+                        <mjx-c class="mjx-c1D714 TEX-I"></mjx-c>
                       </mjx-mi>
                     </mjx-TeXAtom>
                   </mjx-script>
@@ -75,7 +75,7 @@ exports[`mathjax-chtml block.md 1`] = `
                     <mjx-den>
                       <mjx-dstrut type="d"></mjx-dstrut>
                       <mjx-mi class="mjx-i">
-                        <mjx-c c="3C9"></mjx-c>
+                        <mjx-c class="mjx-c1D714 TEX-I"></mjx-c>
                       </mjx-mi>
                     </mjx-den>
                   </mjx-row>
@@ -84,15 +84,15 @@ exports[`mathjax-chtml block.md 1`] = `
             </mjx-frac>
           </mjx-mfrac>
           <mjx-mo class="mjx-s3">
-            <mjx-c c=")"></mjx-c>
+            <mjx-c class="mjx-c29 TEX-S3"></mjx-c>
           </mjx-mo>
         </mjx-mrow>
         <mjx-mo class="mjx-n" space="4">
-          <mjx-c c="="></mjx-c>
+          <mjx-c class="mjx-c3D"></mjx-c>
         </mjx-mo>
         <mjx-mrow space="4">
           <mjx-mo class="mjx-s3">
-            <mjx-c c="("></mjx-c>
+            <mjx-c class="mjx-c28 TEX-S3"></mjx-c>
           </mjx-mo>
           <mjx-mfrac>
             <mjx-frac type="d">
@@ -100,12 +100,12 @@ exports[`mathjax-chtml block.md 1`] = `
                 <mjx-nstrut type="d"></mjx-nstrut>
                 <mjx-msup>
                   <mjx-mi class="mjx-i">
-                    <mjx-c c="y"></mjx-c>
+                    <mjx-c class="mjx-c1D466 TEX-I"></mjx-c>
                   </mjx-mi>
                   <mjx-script style="vertical-align: 0.363em">
-                    <mjx-TeXAtom size="s">
+                    <mjx-TeXAtom size="s" texclass="ORD">
                       <mjx-mi class="mjx-i">
-                        <mjx-c c="3C9"></mjx-c>
+                        <mjx-c class="mjx-c1D714 TEX-I"></mjx-c>
                       </mjx-mi>
                     </mjx-TeXAtom>
                   </mjx-script>
@@ -118,7 +118,7 @@ exports[`mathjax-chtml block.md 1`] = `
                     <mjx-den>
                       <mjx-dstrut type="d"></mjx-dstrut>
                       <mjx-mi class="mjx-i">
-                        <mjx-c c="3C9"></mjx-c>
+                        <mjx-c class="mjx-c1D714 TEX-I"></mjx-c>
                       </mjx-mi>
                     </mjx-den>
                   </mjx-row>
@@ -127,44 +127,44 @@ exports[`mathjax-chtml block.md 1`] = `
             </mjx-frac>
           </mjx-mfrac>
           <mjx-mo class="mjx-s3">
-            <mjx-c c=")"></mjx-c>
+            <mjx-c class="mjx-c29 TEX-S3"></mjx-c>
           </mjx-mo>
         </mjx-mrow>
         <mjx-mrow>
           <mjx-mo class="mjx-s4">
-            <mjx-c c="{"></mjx-c>
+            <mjx-c class="mjx-c7B TEX-S4"></mjx-c>
           </mjx-mo>
           <mjx-mo class="mjx-n">
-            <mjx-c c="("></mjx-c>
+            <mjx-c class="mjx-c28"></mjx-c>
           </mjx-mo>
           <mjx-mi class="mjx-n">
-            <mjx-c c="l"></mjx-c>
-            <mjx-c c="o"></mjx-c>
-            <mjx-c c="g"></mjx-c>
+            <mjx-c class="mjx-c6C"></mjx-c>
+            <mjx-c class="mjx-c6F"></mjx-c>
+            <mjx-c class="mjx-c67"></mjx-c>
           </mjx-mi>
           <mjx-mo class="mjx-n">
-            <mjx-c c="2061"></mjx-c>
+            <mjx-c class="mjx-c2061"></mjx-c>
           </mjx-mo>
           <mjx-mi class="mjx-i" space="2">
-            <mjx-c c="y"></mjx-c>
+            <mjx-c class="mjx-c1D466 TEX-I"></mjx-c>
           </mjx-mi>
           <mjx-msup>
             <mjx-mo class="mjx-n">
-              <mjx-c c=")"></mjx-c>
+              <mjx-c class="mjx-c29"></mjx-c>
             </mjx-mo>
             <mjx-script style="vertical-align: 0.413em">
               <mjx-mi class="mjx-i" size="s">
-                <mjx-c c="r"></mjx-c>
+                <mjx-c class="mjx-c1D45F TEX-I"></mjx-c>
               </mjx-mi>
             </mjx-script>
           </mjx-msup>
           <mjx-mo class="mjx-n" space="3">
-            <mjx-c c="+"></mjx-c>
+            <mjx-c class="mjx-c2B"></mjx-c>
           </mjx-mo>
           <mjx-munderover space="3">
             <mjx-over style="padding-bottom: 0.192em; padding-left: 0.563em">
               <mjx-mi class="mjx-i" size="s">
-                <mjx-c c="r"></mjx-c>
+                <mjx-c class="mjx-c1D45F TEX-I"></mjx-c>
               </mjx-mi>
             </mjx-over>
             <mjx-box>
@@ -172,21 +172,21 @@ exports[`mathjax-chtml block.md 1`] = `
                 <mjx-row>
                   <mjx-base>
                     <mjx-mo class="mjx-lop">
-                      <mjx-c c="2211"></mjx-c>
+                      <mjx-c class="mjx-c2211 TEX-S2"></mjx-c>
                     </mjx-mo>
                   </mjx-base>
                 </mjx-row>
                 <mjx-row>
                   <mjx-under style="padding-top: 0.167em; padding-left: 0.148em">
-                    <mjx-TeXAtom size="s">
+                    <mjx-TeXAtom size="s" texclass="ORD">
                       <mjx-mi class="mjx-i">
-                        <mjx-c c="i"></mjx-c>
+                        <mjx-c class="mjx-c1D456 TEX-I"></mjx-c>
                       </mjx-mi>
                       <mjx-mo class="mjx-n">
-                        <mjx-c c="="></mjx-c>
+                        <mjx-c class="mjx-c3D"></mjx-c>
                       </mjx-mo>
                       <mjx-mn class="mjx-n">
-                        <mjx-c c="1"></mjx-c>
+                        <mjx-c class="mjx-c31"></mjx-c>
                       </mjx-mn>
                     </mjx-TeXAtom>
                   </mjx-under>
@@ -200,79 +200,79 @@ exports[`mathjax-chtml block.md 1`] = `
                 <mjx-nstrut type="d"></mjx-nstrut>
                 <mjx-mrow>
                   <mjx-mo class="mjx-n">
-                    <mjx-c c="("></mjx-c>
+                    <mjx-c class="mjx-c28"></mjx-c>
                   </mjx-mo>
                   <mjx-mo class="mjx-n">
-                    <mjx-c c="2212"></mjx-c>
+                    <mjx-c class="mjx-c2212"></mjx-c>
                   </mjx-mo>
                   <mjx-mn class="mjx-n">
-                    <mjx-c c="1"></mjx-c>
+                    <mjx-c class="mjx-c31"></mjx-c>
                   </mjx-mn>
                   <mjx-msup>
                     <mjx-mo class="mjx-n">
-                      <mjx-c c=")"></mjx-c>
+                      <mjx-c class="mjx-c29"></mjx-c>
                     </mjx-mo>
                     <mjx-script style="vertical-align: 0.363em">
                       <mjx-mi class="mjx-i" size="s">
-                        <mjx-c c="i"></mjx-c>
+                        <mjx-c class="mjx-c1D456 TEX-I"></mjx-c>
                       </mjx-mi>
                     </mjx-script>
                   </mjx-msup>
                   <mjx-mi class="mjx-i">
-                    <mjx-c c="r"></mjx-c>
+                    <mjx-c class="mjx-c1D45F TEX-I"></mjx-c>
                   </mjx-mi>
                   <mjx-mo class="mjx-n" space="2">
-                    <mjx-c c="22EF"></mjx-c>
+                    <mjx-c class="mjx-c22EF"></mjx-c>
                   </mjx-mo>
                   <mjx-mo class="mjx-n" space="2">
-                    <mjx-c c="("></mjx-c>
+                    <mjx-c class="mjx-c28"></mjx-c>
                   </mjx-mo>
                   <mjx-mi class="mjx-i">
-                    <mjx-c c="r"></mjx-c>
+                    <mjx-c class="mjx-c1D45F TEX-I"></mjx-c>
                   </mjx-mi>
                   <mjx-mo class="mjx-n" space="3">
-                    <mjx-c c="2212"></mjx-c>
+                    <mjx-c class="mjx-c2212"></mjx-c>
                   </mjx-mo>
                   <mjx-mi class="mjx-i" space="3">
-                    <mjx-c c="i"></mjx-c>
+                    <mjx-c class="mjx-c1D456 TEX-I"></mjx-c>
                   </mjx-mi>
                   <mjx-mo class="mjx-n" space="3">
-                    <mjx-c c="+"></mjx-c>
+                    <mjx-c class="mjx-c2B"></mjx-c>
                   </mjx-mo>
                   <mjx-mn class="mjx-n" space="3">
-                    <mjx-c c="1"></mjx-c>
+                    <mjx-c class="mjx-c31"></mjx-c>
                   </mjx-mn>
                   <mjx-mo class="mjx-n">
-                    <mjx-c c=")"></mjx-c>
+                    <mjx-c class="mjx-c29"></mjx-c>
                   </mjx-mo>
                   <mjx-mo class="mjx-n">
-                    <mjx-c c="("></mjx-c>
+                    <mjx-c class="mjx-c28"></mjx-c>
                   </mjx-mo>
                   <mjx-mi class="mjx-n">
-                    <mjx-c c="l"></mjx-c>
-                    <mjx-c c="o"></mjx-c>
-                    <mjx-c c="g"></mjx-c>
+                    <mjx-c class="mjx-c6C"></mjx-c>
+                    <mjx-c class="mjx-c6F"></mjx-c>
+                    <mjx-c class="mjx-c67"></mjx-c>
                   </mjx-mi>
                   <mjx-mo class="mjx-n">
-                    <mjx-c c="2061"></mjx-c>
+                    <mjx-c class="mjx-c2061"></mjx-c>
                   </mjx-mo>
                   <mjx-mi class="mjx-i" space="2">
-                    <mjx-c c="y"></mjx-c>
+                    <mjx-c class="mjx-c1D466 TEX-I"></mjx-c>
                   </mjx-mi>
                   <mjx-msup>
                     <mjx-mo class="mjx-n">
-                      <mjx-c c=")"></mjx-c>
+                      <mjx-c class="mjx-c29"></mjx-c>
                     </mjx-mo>
                     <mjx-script style="vertical-align: 0.363em">
-                      <mjx-TeXAtom size="s">
+                      <mjx-TeXAtom size="s" texclass="ORD">
                         <mjx-mi class="mjx-i">
-                          <mjx-c c="r"></mjx-c>
+                          <mjx-c class="mjx-c1D45F TEX-I"></mjx-c>
                         </mjx-mi>
                         <mjx-mo class="mjx-n">
-                          <mjx-c c="2212"></mjx-c>
+                          <mjx-c class="mjx-c2212"></mjx-c>
                         </mjx-mo>
                         <mjx-mi class="mjx-i">
-                          <mjx-c c="i"></mjx-c>
+                          <mjx-c class="mjx-c1D456 TEX-I"></mjx-c>
                         </mjx-mi>
                       </mjx-TeXAtom>
                     </mjx-script>
@@ -287,11 +287,11 @@ exports[`mathjax-chtml block.md 1`] = `
                       <mjx-dstrut type="d"></mjx-dstrut>
                       <mjx-msup>
                         <mjx-mi class="mjx-i">
-                          <mjx-c c="3C9"></mjx-c>
+                          <mjx-c class="mjx-c1D714 TEX-I"></mjx-c>
                         </mjx-mi>
-                        <mjx-script style="vertical-align: 0.363em">
+                        <mjx-script style="vertical-align: 0.289em">
                           <mjx-mi class="mjx-i" size="s">
-                            <mjx-c c="i"></mjx-c>
+                            <mjx-c class="mjx-c1D456 TEX-I"></mjx-c>
                           </mjx-mi>
                         </mjx-script>
                       </mjx-msup>
@@ -302,7 +302,7 @@ exports[`mathjax-chtml block.md 1`] = `
             </mjx-frac>
           </mjx-mfrac>
           <mjx-mo class="mjx-s4">
-            <mjx-c c="}"></mjx-c>
+            <mjx-c class="mjx-c7D TEX-S4"></mjx-c>
           </mjx-mo>
         </mjx-mrow>
       </mjx-math>
@@ -318,43 +318,43 @@ exports[`mathjax-chtml inline.md 1`] = `
     <mjx-math class=" MJX-TEX">
       <mjx-msup>
         <mjx-mi class="mjx-i">
-          <mjx-c c="e"></mjx-c>
+          <mjx-c class="mjx-c1D452 TEX-I"></mjx-c>
         </mjx-mi>
         <mjx-script style="vertical-align: 0.363em">
-          <mjx-TeXAtom size="s">
+          <mjx-TeXAtom size="s" texclass="ORD">
             <mjx-mi class="mjx-i">
-              <mjx-c c="i"></mjx-c>
+              <mjx-c class="mjx-c1D456 TEX-I"></mjx-c>
             </mjx-mi>
             <mjx-mi class="mjx-i">
-              <mjx-c c="3C0"></mjx-c>
+              <mjx-c class="mjx-c1D70B TEX-I"></mjx-c>
             </mjx-mi>
           </mjx-TeXAtom>
         </mjx-script>
       </mjx-msup>
       <mjx-mo class="mjx-n" space="3">
-        <mjx-c c="+"></mjx-c>
+        <mjx-c class="mjx-c2B"></mjx-c>
       </mjx-mo>
       <mjx-mn class="mjx-n" space="3">
-        <mjx-c c="1"></mjx-c>
+        <mjx-c class="mjx-c31"></mjx-c>
       </mjx-mn>
       <mjx-mo class="mjx-n" space="4">
-        <mjx-c c="="></mjx-c>
+        <mjx-c class="mjx-c3D"></mjx-c>
       </mjx-mo>
       <mjx-mn class="mjx-n" space="4">
-        <mjx-c c="0"></mjx-c>
+        <mjx-c class="mjx-c30"></mjx-c>
       </mjx-mn>
     </mjx-math>
   </mjx-container> is a beautiful formula in <mjx-container class="MathJax" jax="CHTML">
     <mjx-math class=" MJX-TEX">
       <mjx-msup>
-        <mjx-TeXAtom>
-          <mjx-mi class="mjx-ds">
-            <mjx-c c="R"></mjx-c>
+        <mjx-TeXAtom texclass="ORD">
+          <mjx-mi class="mjx-ds mjx-b">
+            <mjx-c class="mjx-c211D TEX-A"></mjx-c>
           </mjx-mi>
         </mjx-TeXAtom>
         <mjx-script style="vertical-align: 0.41em">
           <mjx-mn class="mjx-n" size="s">
-            <mjx-c c="2"></mjx-c>
+            <mjx-c class="mjx-c32"></mjx-c>
           </mjx-mn>
         </mjx-script>
       </mjx-msup>
@@ -366,50 +366,50 @@ exports[`mathjax-chtml macro.md 1`] = `
 <p>We have <mjx-container class="MathJax" jax="CHTML">
     <mjx-math class=" MJX-TEX">
       <mjx-mi class="mjx-i">
-        <mjx-c c="a"></mjx-c>
+        <mjx-c class="mjx-c1D44E TEX-I"></mjx-c>
       </mjx-mi>
       <mjx-mo class="mjx-n" space="4">
-        <mjx-c c=">"></mjx-c>
+        <mjx-c class="mjx-c3E"></mjx-c>
       </mjx-mo>
       <mjx-mi class="mjx-i" space="4">
-        <mjx-c c="n"></mjx-c>
+        <mjx-c class="mjx-c1D45B TEX-I"></mjx-c>
       </mjx-mi>
       <mjx-mo class="mjx-n" space="4">
-        <mjx-c c="21D4"></mjx-c>
+        <mjx-c class="mjx-c21D4"></mjx-c>
       </mjx-mo>
       <mjx-mi class="mjx-i" space="4">
-        <mjx-c c="a"></mjx-c>
+        <mjx-c class="mjx-c1D44E TEX-I"></mjx-c>
       </mjx-mi>
       <mjx-mo class="mjx-n" space="4">
-        <mjx-c c="2A7E"></mjx-c>
+        <mjx-c class="mjx-c2A7E TEX-A"></mjx-c>
       </mjx-mo>
       <mjx-mi class="mjx-i" space="4">
-        <mjx-c c="n"></mjx-c>
+        <mjx-c class="mjx-c1D45B TEX-I"></mjx-c>
       </mjx-mi>
       <mjx-mo class="mjx-n" space="3">
-        <mjx-c c="+"></mjx-c>
+        <mjx-c class="mjx-c2B"></mjx-c>
       </mjx-mo>
       <mjx-mn class="mjx-n" space="3">
-        <mjx-c c="1"></mjx-c>
+        <mjx-c class="mjx-c31"></mjx-c>
       </mjx-mn>
     </mjx-math>
   </mjx-container>, if <mjx-container class="MathJax" jax="CHTML">
     <mjx-math class=" MJX-TEX">
       <mjx-mi class="mjx-i">
-        <mjx-c c="a"></mjx-c>
+        <mjx-c class="mjx-c1D44E TEX-I"></mjx-c>
       </mjx-mi>
       <mjx-mo class="mjx-n">
-        <mjx-c c=","></mjx-c>
+        <mjx-c class="mjx-c2C"></mjx-c>
       </mjx-mo>
       <mjx-mi class="mjx-i" space="2">
-        <mjx-c c="n"></mjx-c>
+        <mjx-c class="mjx-c1D45B TEX-I"></mjx-c>
       </mjx-mi>
       <mjx-mo class="mjx-n" space="4">
-        <mjx-c c="2208"></mjx-c>
+        <mjx-c class="mjx-c2208"></mjx-c>
       </mjx-mo>
-      <mjx-TeXAtom space="4">
-        <mjx-mi class="mjx-ds">
-          <mjx-c c="Z"></mjx-c>
+      <mjx-TeXAtom space="4" texclass="ORD">
+        <mjx-mi class="mjx-ds mjx-b">
+          <mjx-c class="mjx-c2124 TEX-A"></mjx-c>
         </mjx-mi>
       </mjx-TeXAtom>
     </mjx-math>
@@ -420,13 +420,13 @@ exports[`mathjax-chtml preset.md 1`] = `
 <p>
   <p>
     <mjx-container class="MathJax" jax="CHTML" display="true">
-      <mjx-math display="true" class=" MJX-TEX">
+      <mjx-math display="true" style="margin-left: 0; margin-right: 0" class=" MJX-TEX">
         <mjx-mfrac>
           <mjx-frac type="d">
             <mjx-num>
               <mjx-nstrut type="d"></mjx-nstrut>
-              <mjx-mi class="mjx-n">
-                <mjx-c c="2202"></mjx-c>
+              <mjx-mi class="mjx-i">
+                <mjx-c class="mjx-c1D715"></mjx-c>
               </mjx-mi>
             </mjx-num>
             <mjx-dbox>
@@ -436,11 +436,11 @@ exports[`mathjax-chtml preset.md 1`] = `
                   <mjx-den>
                     <mjx-dstrut type="d"></mjx-dstrut>
                     <mjx-mrow>
-                      <mjx-mi class="mjx-n">
-                        <mjx-c c="2202"></mjx-c>
+                      <mjx-mi class="mjx-i">
+                        <mjx-c class="mjx-c1D715"></mjx-c>
                       </mjx-mi>
                       <mjx-mi class="mjx-i">
-                        <mjx-c c="t"></mjx-c>
+                        <mjx-c class="mjx-c1D461 TEX-I"></mjx-c>
                       </mjx-mi>
                     </mjx-mrow>
                   </mjx-den>
@@ -451,7 +451,7 @@ exports[`mathjax-chtml preset.md 1`] = `
         </mjx-mfrac>
         <mjx-mrow>
           <mjx-mo class="mjx-s3">
-            <mjx-c c="("></mjx-c>
+            <mjx-c class="mjx-c28 TEX-S3"></mjx-c>
           </mjx-mo>
           <mjx-mfrac>
             <mjx-frac type="d">
@@ -459,11 +459,11 @@ exports[`mathjax-chtml preset.md 1`] = `
                 <mjx-nstrut type="d"></mjx-nstrut>
                 <mjx-msup>
                   <mjx-mi class="mjx-i">
-                    <mjx-c c="y"></mjx-c>
+                    <mjx-c class="mjx-c1D466 TEX-I"></mjx-c>
                   </mjx-mi>
                   <mjx-script style="vertical-align: 0.363em">
                     <mjx-mi class="mjx-i" size="s">
-                      <mjx-c c="t"></mjx-c>
+                      <mjx-c class="mjx-c1D461 TEX-I"></mjx-c>
                     </mjx-mi>
                   </mjx-script>
                 </mjx-msup>
@@ -475,7 +475,7 @@ exports[`mathjax-chtml preset.md 1`] = `
                     <mjx-den>
                       <mjx-dstrut type="d"></mjx-dstrut>
                       <mjx-mi class="mjx-i">
-                        <mjx-c c="t"></mjx-c>
+                        <mjx-c class="mjx-c1D461 TEX-I"></mjx-c>
                       </mjx-mi>
                     </mjx-den>
                   </mjx-row>
@@ -484,7 +484,7 @@ exports[`mathjax-chtml preset.md 1`] = `
             </mjx-frac>
           </mjx-mfrac>
           <mjx-mo class="mjx-s3">
-            <mjx-c c=")"></mjx-c>
+            <mjx-c class="mjx-c29 TEX-S3"></mjx-c>
           </mjx-mo>
         </mjx-mrow>
       </mjx-math>

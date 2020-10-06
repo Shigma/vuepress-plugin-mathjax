@@ -13,6 +13,7 @@ describe('mathjax-chtml', () => {
   testCases.forEach(({ name, content, frontmatter }) => {
     test(name, () => {
       const { html } = app.markdown.render(content, { frontmatter })
+
       expect(html).toMatchSnapshot()
     })
   })

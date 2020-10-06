@@ -7,7 +7,7 @@ module.exports = {
   '->': '\\rightarrow',
   '=>': '\\Rightarrow',
   // Dots
-  '...': '\\cdots',
+  '...': '\\ldots',
   // Arithmatic
   '+-': '\\pm',
   '-+': '\\mp',
